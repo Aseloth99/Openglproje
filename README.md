@@ -2,6 +2,6 @@
 
 ![](opengl.gif)
 
-##Gereksinimler
+Gereksinimler
 
-###Visual Studio ve nuget'ten nupengl kütüphanesi
+Visual Studio ve nuget'ten nupengl kütüphanesi
