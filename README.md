@@ -1,6 +1,6 @@
 # Opengl Örnek Proje
 
-![](opengl.gif)
+![](opengl.mp4)
 
 Gereksinimler
 
