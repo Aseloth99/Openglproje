@@ -1,4 +1,4 @@
-# Opengl Örnek Proje
+Opengl Örnek Proje
 
 ![](opengl.mp4)
 
